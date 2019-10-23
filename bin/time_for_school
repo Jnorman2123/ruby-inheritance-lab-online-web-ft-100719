@@ -31,3 +31,4 @@ puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' fr
 puts "Bill just learned this important knowledge: '#{bill.knowledge.first}' from Avi"
 
 p steve.knowledge
+p bill.knowledge
