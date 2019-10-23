@@ -20,6 +20,8 @@ p jim.first_name
 
 some_knowledge = avi.teach
 
-p steve.learn(some_knowledge)
-p steve.learn(some_knowledge)
+
+steve.learn(some_knowledge)
+
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
+p steve.knowledge
